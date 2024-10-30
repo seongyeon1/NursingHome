@@ -52,3 +52,7 @@ UPSTAGE_API_KEY='Your issued API key'
 # Execute
 uvicorn main:app --reload
 ```
+
+## 결과
+![ezgif com-optimize](https://github.com/user-attachments/assets/8724339c-add0-4942-8453-054466405fd3)
+
